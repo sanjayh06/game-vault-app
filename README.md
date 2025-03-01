@@ -14,8 +14,7 @@
 ## **📌 Features**  
 ✅ Browse a collection of popular games  
 ✅ Responsive and modern UI  
-✅ Smooth navigation and fast performance  
-✅ Hover animations for better interactivity    
+✅ Smooth navigation and fast performance      
 
 ---
 
