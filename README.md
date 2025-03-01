@@ -1,4 +1,4 @@
-### **🎮 Game Vault**  
+## **🎮 Game Vault**  
 
 🚀 A modern and sleek gaming hub where you can explore and discover exciting games. Built using **React.js** and **Tailwind CSS**, this app provides a seamless browsing experience with a responsive design.
 
