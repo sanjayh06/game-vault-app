@@ -2,7 +2,7 @@
 
 🚀 A modern and sleek gaming hub where you can explore and discover exciting games. Built using **React.js** and **Tailwind CSS**, this app provides a seamless browsing experience with a responsive design.
 
-![Game Vault Preview](https://your-image-link.com) *(Replace with an actual screenshot of your app)*
+<img src="https://github.com/sanjayh06/game-vault-app/blob/main/images/project3.png" width="500">
 
 ---  
 
